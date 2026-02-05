@@ -1,8 +1,8 @@
 # 🧠 AI-MedDiagnostics
 
-AI-MedDiagnostics is a web-based healthcare application designed to help users monitor symptoms and assess potential health risks using machine learning. The platform analyzes user-reported symptoms to estimate the likelihood of various diseases and provides personalized health insights to support early awareness and informed decision-making.
+- AI-MedDiagnostics is a web-based healthcare application designed to help users monitor symptoms and assess potential health risks using machine learning. The platform analyzes user-reported symptoms to estimate the likelihood of various diseases and provides personalized health insights to support early awareness and informed decision-making.
 
-🩺 Key Features
+### 🩺 Key Features
 
 * Symptom-Based Disease Prediction: Uses machine learning models to analyze symptoms and estimate disease likelihood
 
@@ -32,7 +32,7 @@ AI-MedDiagnostics is a web-based healthcare application designed to help users m
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Ayushkumawat/AI-MedDiagnostics.git
+1. Clone the repository
 
 2. Install the required dependencies: pip install -r requirements.txt
 
