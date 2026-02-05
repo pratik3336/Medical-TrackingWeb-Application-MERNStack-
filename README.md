@@ -1,18 +1,18 @@
-🧠 AI-MedDiagnostics
+# 🧠 AI-MedDiagnostics
 
 AI-MedDiagnostics is a web-based healthcare application designed to help users monitor symptoms and assess potential health risks using machine learning. The platform analyzes user-reported symptoms to estimate the likelihood of various diseases and provides personalized health insights to support early awareness and informed decision-making.
 
 🩺 Key Features
 
-Symptom-Based Disease Prediction: Uses machine learning models to analyze symptoms and estimate disease likelihood
+* Symptom-Based Disease Prediction: Uses machine learning models to analyze symptoms and estimate disease likelihood
 
-Supported Conditions: Includes Dengue, Heart Attack, Paralysis, Hypertension, Chronic Kidney Disease, Heart Disease, COVID-19, and more
+* Supported Conditions: Includes Dengue, Heart Attack, Paralysis, Hypertension, Chronic Kidney Disease, Heart Disease, COVID-19, and more
 
-Personal Health Assistance: Provides tailored health guidance based on symptoms, medical history, and lifestyle inputs
+* Personal Health Assistance: Provides tailored health guidance based on symptoms, medical history, and lifestyle inputs
 
-User-Friendly Interface: Simple symptom input and easy-to-understand results
+* User-Friendly Interface: Simple symptom input and easy-to-understand results
 
-Preventive Focus: Helps users recognize potential risks early and seek appropriate medical consultation
+* Preventive Focus: Helps users recognize potential risks early and seek appropriate medical consultation
 
 ![Screenshot (230)](https://github.com/Ayushkumawat/AI-MedDiagnostics/assets/76219349/94522c5c-276f-4821-b630-aa8b3436428a)
 
